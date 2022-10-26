@@ -1,0 +1,1 @@
+# batter_manager_plugin
